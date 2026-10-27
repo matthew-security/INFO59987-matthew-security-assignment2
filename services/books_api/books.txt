@@ -1,0 +1,4 @@
+1,The Pragmatic Programmer,Andrew Hunt,Available
+2,Clean Code,Robert Martin,Checked Out
+3,Docker Deep Dive,Nigel Poulton,Available
+4,The Phoenix Project,Gene Kim,Available
